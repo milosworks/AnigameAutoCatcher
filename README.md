@@ -23,6 +23,8 @@ Then u put your account token in src/config.js
 
 In that file i put all information of all things.
 
+And then put this in your terminal **node src/index.js**
+
 WARNING
 
 I dont give support about this thing
